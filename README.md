@@ -39,7 +39,7 @@ Designing and developing an interactive sales analytics dashboard using Power BI
 
 ## 🚀 How to Use
 
-1. Clone the repo or download the `.pbix` file
+1. Clone the repo as given
 2. Open in Power BI Desktop
 3. Load/replace the dataset if prompted
 4. Use filters to interact with the dashboard
